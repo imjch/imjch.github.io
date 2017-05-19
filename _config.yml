@@ -18,7 +18,7 @@ email: imjch@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
     jc@baidu
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://imjch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  imjch
 
 # Build settings
